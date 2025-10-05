@@ -1,3 +1,3 @@
 # git and github
 
-created new file test.md
+created new file readme.md
